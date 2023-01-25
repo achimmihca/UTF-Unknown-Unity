@@ -101,11 +101,11 @@ namespace UtfUnknown
                 (exception is ArgumentException || // unsupported name
                 exception is NotSupportedException)
             {
-#if NETSTANDARD && !NETSTANDARD1_0 || NETCOREAPP3_0
-                return CodePagesEncodingProvider.Instance.GetEncoding(encodingName);
-#else
+// #if NETSTANDARD && !NETSTANDARD1_0 || NETCOREAPP3_0
+                // return CodePagesEncodingProvider.Instance.GetEncoding(encodingName);
+// #else
                 return null;
-#endif
+// #endif
             }
         }
     }
