@@ -1,0 +1,25 @@
+{
+    "name": "com.achimmihca.utfunknownunity",
+    "version": "1.0.0",
+    "displayName": "UTF-Unknown-Unity",
+    "description": "Unity package for UTF-unknown, based on Mozilla Universal Charset Detector.",
+    "dependencies": {
+    },
+   "keywords": [
+      "charset",
+      "encoding",
+      "unicode",
+      "utf",
+      "utf8",
+      "utf-8",
+      "ascii",
+      "iso",
+      "detection"
+    ],
+    "author": {
+      "name": "Andreas Stange",
+      "email": "anst.dev@gmail.com",
+      "url": "https://github.com/achimmihca/UTF-Unknown-Unity"
+    },
+	"samples": []
+}
