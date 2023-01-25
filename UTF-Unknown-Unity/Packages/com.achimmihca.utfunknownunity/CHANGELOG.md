@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v1.0.1]
+- upgrade Unity to 2022.2.3
+- added meta files of Unity project
+
 ## [v1.0.0]
 - Initial version
 - Uses https://github.com/CharsetDetector/UTF-unknown commit 53af842d038a52358647600abc91a824050435a8
