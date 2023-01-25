@@ -1,0 +1,16 @@
+{
+    "name": "SampleScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a84b1082c9b82fe4da6027dbf1d0e997"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
